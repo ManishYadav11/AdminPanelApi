@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "adminpanelapi_user",
+    "password": "ax6tQ5gJBunixuidLRQwMCcp5KI9ovO5",
+    "database": "adminpanelapi",
+    "host": "dpg-cre4qv8gph6c73endudg-a.render.com",  
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "adminpanelapi_user",
+    "password": "ax6tQ5gJBunixuidLRQwMCcp5KI9ovO5",
+    "database": "adminpanelapi",
+    "host": "dpg-cre4qv8gph6c73endudg-a.render.com",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "adminpanelapi_user",
+    "password": "ax6tQ5gJBunixuidLRQwMCcp5KI9ovO5",
+    "database": "adminpanelapi",
+    "host": "dpg-cre4qv8gph6c73endudg-a.render.com",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
