@@ -108,7 +108,7 @@ app.use('/api/audit-logs', authenticateToken, ensureAdmin, auditLogRoutes);
 
 // Sample route
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+  res.send('This is simple route');
 });
 
 // Start server
